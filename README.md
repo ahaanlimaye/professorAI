@@ -24,7 +24,7 @@
 ## Devpost
 https://devpost.com/software/name-xazq3o
 
-## Awards at GunnHacks 7.0
+## Awards at Ling Hacks III
 - 3rd Place Overall
 
 ## Try It Out
